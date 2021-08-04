@@ -17,6 +17,6 @@ Andi Muhammad Ivan	/ 10117154
 Aldi Alfarizi	/ 10117156
 
 
-Kelas : CCDP-1
+Kelas : CCDP-2
 
 Universitas Komputer Indonesia.
